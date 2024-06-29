@@ -75,7 +75,7 @@ Ready to embark on a financial journey like never before? Follow these steps:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/mayuras7685/Expenze
+   git clone https://github.com/mayuras7685/Expenze-dapp
    ```
 
 ## Install Dependencies
@@ -123,9 +123,7 @@ Get ready to blast off! Execute the following command:
 
 ### The Cosmic Dashboard:
 
-<img src="https://github.com/mayuras7685/Expenze/assets/63473496/508e2914-4b2a-46c8-9e75-a589f2ef2c05" height="600"/>
-
-
+![289316128-508e2914-4b2a-46c8-9e75-a589f2ef2c05](https://github.com/mayuras7685/Expenze-dapp/assets/88922616/5653c138-6b77-495e-ab6b-1dbd13b0ded1)
 
 
 Your support fuels our cosmic exploration! Thank you for being part of this intergalactic financial odyssey.
